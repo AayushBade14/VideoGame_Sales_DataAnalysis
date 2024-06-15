@@ -4,7 +4,7 @@
 # Project Overview
 ### The primary objective of this project is to explore and understand the trends in video game sales globally. The analysis includes:
 
-## Data Collection: The dataset was sourced from Kaggle, contributed by The Devastator. You can find the dataset here.
+## Data Collection: The dataset was sourced from Kaggle, contributed by The Devastator. You can find the dataset [here](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales).
 ## Data Cleaning: Processed the raw data to handle missing values, duplicates, and other inconsistencies.
 ## Data Analysis and Visualization: Performed exploratory data analysis (EDA) and created visualizations to uncover patterns and insights.
 # Steps Taken
