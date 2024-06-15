@@ -4,24 +4,26 @@
 # Project Overview
 ### The primary objective of this project is to explore and understand the trends in video game sales globally. The analysis includes:
 
-## Data Collection: The dataset was sourced from Kaggle, contributed by The Devastator. You can find the dataset [here](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales).
-## Data Cleaning: Processed the raw data to handle missing values, duplicates, and other inconsistencies.
-## Data Analysis and Visualization: Performed exploratory data analysis (EDA) and created visualizations to uncover patterns and insights.
+## 1. Data Collection: The dataset was sourced from Kaggle, contributed by The Devastator. You can find the dataset [here](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales).
+## 2. Data Cleaning: Processed the raw data to handle missing values, duplicates, and other inconsistencies.
+## 3. Data Analysis and Visualization: Performed exploratory data analysis (EDA) and created visualizations to uncover patterns and insights.
 # Steps Taken
-## Data Collection
-
+## [+] Data Collection:
 ### Source: Kaggle - Global Video Game Sales
-## Data Cleaning
+## [+] Data Cleaning:
 
-### Handled missing values
-### Removed duplicates
-### Standardized data formats
-### Data Analysis/Visualization
+### (i) Handled missing values
+### (ii) Removed duplicates
+### (iii) Standardized data formats
 
-### Explored trends in video game sales over the years
-### Analyzed the popularity of different video game genres
-### Visualized sales data using Matplotlib and Seaborn
+## [+] Data Analysis/Visualization:
+
+### 1) Explored trends in video game sales over the years
+### 2) Analyzed the popularity of different video game genres
+### 3) Visualized sales data using Matplotlib and Seaborn
+
 # How to Use
+
 ## All the steps taken and detailed explanations are within the comments of the ipynb file. To view and run the notebook:
 
 ## Clone this repository
